@@ -59,6 +59,7 @@ header.product-label{
 }
 /*--------------*/
 
+.photo-column img,
 .product img{
 	width: 100%;
 	display: block;
